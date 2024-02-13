@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushibaswade&label=Profile%20views&color=0e75b6&style=flat" alt="rushibaswade" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushibaswade" alt="rushibaswade" /></a> </p>
-
 - 🔭 I’m currently working on **Problem solving with DSA**
 
 - 🌱 I’m currently learning **Flask, Javascript**
@@ -19,6 +17,11 @@
 - 💬 Ask me about **Python, Computer Networks, Cloud Computing,**
 
 - 📫 How to reach me **rushib12344@gmail.com**
+
+## Certifications
+![AWS](https://github.com/rushibaswade/E-Commarce-Website/assets/98394319/4eac1569-cf89-424f-806d-cfd74c9391ae)![AZ900](https://github.com/rushibaswade/E-Commarce-Website/assets/98394319/b09abe22-44d8-4602-bf53-79876d654861)![AI900](https://github.com/rushibaswade/E-Commarce-Website/assets/98394319/81a50773-5430-47fd-82a3-c755e5eb3d43)![Google It support](https://github.com/rushibaswade/E-Commarce-Website/assets/98394319/863d8574-0259-49c8-b966-8a30f4bf5dc0)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
